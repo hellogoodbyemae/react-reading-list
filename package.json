@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/hellogoodbyemae/react-reading-list",
-  "name": "mern",
+  "name": "react-reading-list",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3001/",
